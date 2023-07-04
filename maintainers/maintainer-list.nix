@@ -11663,6 +11663,13 @@
     githubId = 7845120;
     name = "Alex Martens";
   };
+  newzubakhin = {
+    email = "newzubakhin@gmail.com";
+    matrix = "@newzubakhin:matrix.org";
+    github = "newzubakhin";
+    githubId = 8059773;
+    name = "Evgeny Zubakhin";
+  };
   ngerstle = {
     name = "Nicholas Gerstle";
     email = "ngerstle@gmail.com";
