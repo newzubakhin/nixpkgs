@@ -19874,6 +19874,8 @@ with pkgs;
 
   gf = callPackage ../development/tools/misc/gf { };
 
+  jattach = callPackage ../development/tools/java/jattach { };
+
   java-language-server = callPackage ../development/tools/java/java-language-server { };
 
   jprofiler = callPackage ../development/tools/java/jprofiler {
